@@ -6,17 +6,17 @@ These notebooks illustrate the basic components of creating and evaluating
 linear regression models using `python` and `scikit-learn`. The notebooks
 cover:
 
- - Ordinary Least Squares using Gradient Descent
- - Randomized Sample Consensus (RANSAC)
- - Cross-Validation
- - Residuals
- - LASSO, Ridge, and ElasticNet Regularization
+ - __Ordinary Least Squares using Gradient Descent__
+ - __Randomized Sample Consensus (RANSAC)__
+ - __Cross-Validation__
+ - __Residuals__
+ - __LASSO, Ridge, and ElasticNet Regularization__
 
 All notebooks are annotated with mathematical descriptions of the models and
 methods being applied. All notebooks use the same include input data. The examples
 are derived with modification from [1].
 
-#Contents
+# Contents
 
  - `OLS.ipynb` - Ordinary Least Squares regression with a custom function.
                  EDA, standardization, and plotting covered.
